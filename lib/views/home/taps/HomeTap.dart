@@ -56,7 +56,7 @@ class _HomeTapState extends State<HomeTap> {
                           height: 20.h,
                         ),
                         CustomText(
-                          "Hello , {${AppStorage().getUser()!.email}",
+                          "Hello , {${AppStorage().getUser()!.email}}",
                           fontSize: 24,
                           translate: false,
                           fontFamily: PRIMARY_FONT_BOLD,
