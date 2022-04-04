@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="check_yes" transform="translate(-167 -365)">
+    <g id="Ellipse_15" data-name="Ellipse 15" transform="translate(167 365)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="20.5" cy="20.5" r="20.5" stroke="none"/>
+      <circle cx="20.5" cy="20.5" r="20" fill="none"/>
+    </g>
+    <path id="ic_done_24px" d="M9,16.2,4.8,12,3.4,13.4,9,19,21,7,19.6,5.6Z" transform="translate(176.6 373.4)" fill="#ee4562"/>
+  </g>
+</svg>
